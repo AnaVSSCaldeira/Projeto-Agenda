@@ -166,4 +166,4 @@ class RegisterUpdateForm(forms.ModelForm):
             'last_name',
             'email',
             'username',
-    )
+        )
